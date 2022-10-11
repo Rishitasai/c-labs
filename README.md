@@ -80,3 +80,6 @@ day3:
   
   total=7
   complted=7
+  
+  total number of programs=57
+  total number of complted programs=57
